@@ -104,7 +104,7 @@ The project uses insurance policy and customer datasets containing information s
 > Replace the placeholder below after uploading your dashboard screenshot (`dashboard.png`) to the repository.
 
 ```markdown
-![Insurance Claims Analytics Dashboard](dashboard.png)
+(dashboard.png)
 ```
 
 ---
