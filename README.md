@@ -101,11 +101,9 @@ The project uses insurance policy and customer datasets containing information s
 
 ## 📷 Dashboard Preview
 
-> Replace the placeholder below after uploading your dashboard screenshot (`dashboard.png`) to the repository.
+## 📷 Dashboard Preview
 
-```markdown
-(dashboard.png)
-```
+![Insurance Claims Analytics Dashboard](dashboard.png)
 
 ---
 
