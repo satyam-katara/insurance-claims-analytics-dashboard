@@ -98,9 +98,6 @@ The project uses insurance policy and customer datasets containing information s
 - Data Storytelling
 
 ---
-
-## 📷 Dashboard Preview
-
 ## 📷 Dashboard Preview
 
 ![Insurance Claims Analytics Dashboard](dashboard.png)
